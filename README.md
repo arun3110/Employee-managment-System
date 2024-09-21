@@ -1,5 +1,7 @@
 # Employee-managment-System
-Employee Manage System Using CRUD Create,Read,Update,Delete operations using HTML.CSS,Bootstrap,JavaScript
+Employee Management System Using CRUD operations 
+Create,Read,Update,Delete operations 
+Using HTML,CSS,Bootstrap,JavaScript and using the database as localstorage
 
 Add Page: Fill out the form to add a new employee.
 Update Page: Fill out the form to edit an existing employee.
